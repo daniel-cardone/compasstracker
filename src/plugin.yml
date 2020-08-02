@@ -1,0 +1,9 @@
+name: CompassTracker
+version: 1.0
+author: BlueScript_
+main: CompassTracker
+api-version: 1.16
+commands:
+  track:
+    description: Set the player to be tracked by your compasses.
+    usage: /track <Player>
